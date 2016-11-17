@@ -10,7 +10,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<!--Esta linea esta modificada-->
 <sql:query var="cdr" dataSource="${bd}">
 SELECT nombre FROM alumnos
 </sql:query>
